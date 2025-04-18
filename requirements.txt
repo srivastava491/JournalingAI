@@ -1,0 +1,6 @@
+streamlit~=1.43.1
+pandas~=2.2.3
+mysql~=0.0.3
+mysql-connector-python~=9.2.0
+groq~=0.18.0
+dotenv
